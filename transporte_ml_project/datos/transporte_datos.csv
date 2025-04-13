@@ -1,0 +1,7 @@
+hora,dia,tipo_dia,estacion,clima,cantidad_pasajeros
+07:00,Lunes,Laboral,Estación Norte,Soleado,120
+08:00,Lunes,Laboral,Estación Norte,Lluvioso,85
+09:00,Lunes,Laboral,Estación Central,Soleado,150
+17:00,Martes,Laboral,Estación Sur,Nublado,70
+08:00,Domingo,Festivo,Estación Central,Soleado,30
+18:00,Sábado,Festivo,Estación Norte,Lluvioso,45
